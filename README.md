@@ -8,4 +8,4 @@ Las carpetas corresponden a los siguientes recursos de información:
 | Carpeta  | Descripción  |
 |:---|---|
 | [EXP-Rendimiento](EXP-Rendimiento)  | Todos los archivos para la creación, ejecución y analisis del experimento.|
-| [Anexo 1](Anexo 1.zip)  | Carpeta comprimida con todos los archivos del experimento.|
+| [Anexo 1]  | Carpeta comprimida con todos los archivos del experimento.|
