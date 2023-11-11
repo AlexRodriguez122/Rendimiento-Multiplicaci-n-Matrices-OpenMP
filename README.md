@@ -1,4 +1,4 @@
-# Rendimiento-Multiplicaci-n-Matrices-OpenMP
+# Rendimiento-Multiplicación-Matrices-OpenMP
 Se analiza a través de la experimentación como infieren en software y las características del hardware en el rendimiento de la multiplicación de matrices.
 
 ## Estructura de la documentación
